@@ -1,1 +1,2 @@
-Print()
+print("Some string")
+
